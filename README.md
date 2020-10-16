@@ -9,7 +9,7 @@
 * ⌨️ MySQL/MONGO DB
 
 
-- 🔭 I’m currently working as Frontend-developer(intern)[ating aps](https://www.ating.app//)
+- 🔭 I’m currently working as Frontend-developer(intern)@[ating aps](https://www.ating.app//)
 - 🌱 I’m currently learning **TypeScript**, **React-redux**, 
 - 🌍 How to reach me :
       👔 [linkedin][linkedin] **|** 
