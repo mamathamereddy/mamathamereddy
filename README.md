@@ -4,3 +4,5 @@
 * ⚛️ React
 * 📱 React Native
 * 💻 HTML,CSS,JS
+* 🎒 Node.Js/Express
+* ⌨️ MySQL/MONGO DB
