@@ -12,15 +12,17 @@
 - 🔭 I’m currently working as Frontend-developer(intern)@[ating aps](https://www.ating.app//)
 - 🌱 I’m currently learning **TypeScript**, **React-redux**, 
 
-👔 [linkedin][linkedin] **|** 
+
 🏡 [website][website] **|** 
+👔 [linkedin][linkedin] **|** 
 🐦 [facebook][facebook] **|** 
 📷 [instagram][instagram] 
 
+[website]: https://mamatha-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
 [facebook]: https://www.facebook.com/mamatha.mereddy
 [instagram]: https://www.instagram.com/mamatha.mereddy
-[website]: https://mamatha-portfolio.netlify.app/
+
 
 
 
