@@ -13,24 +13,15 @@
 - 🌱 I’m currently learning **TypeScript**, **React-redux**, 
 
 👔 [linkedin][linkedin] **|** 
-      🐦 [facebook][facebook] **|** 
-      📷 [instagram][instagram] **|** 
+🏡 [website][website] **|** 
+🐦 [facebook][facebook] **|** 
+📷 [instagram][instagram] 
 
 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
 [facebook]: https://www.facebook.com/mamatha.mereddy
 [instagram]: https://www.instagram.com/mamatha.mereddy
+[website]: https://mamatha-portfolio.netlify.app/
 
-
-
-
-
-
-<!--  
-🏡 [website][website]
---> 
-<!--  
-[website]: 
---> 
 
 
 
