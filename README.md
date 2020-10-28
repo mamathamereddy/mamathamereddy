@@ -13,17 +13,25 @@
 - 🌱 I’m currently learning **TypeScript**, **React-redux**, 
 
 
-🏡 [website][website] **|** 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mamatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mereddy-mamatha/)](https://www.linkedin.com/in/mereddy-mamatha/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Mamatha-green)](https://mamatha-portfolio.netlify.app/)
+
+
+
+
+<!--🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|** 
 🐦 [facebook][facebook] **|** 
 📷 [instagram][instagram] 
-
 [website]: https://mamatha-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
 [facebook]: https://www.facebook.com/mamatha.mereddy
 [instagram]: https://www.instagram.com/mamatha.mereddy
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-
+-->
 
 
 
