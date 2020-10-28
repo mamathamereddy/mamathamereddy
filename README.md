@@ -1,9 +1,6 @@
 
 <img width="967" alt="profile-pic-mamatha" src="https://github.com/mamathamereddy/mamathamereddy/blob/main/Banner.jpg">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mamatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mereddy-mamatha/)](https://www.linkedin.com/in/mereddy-mamatha/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Mamatha-yellow)](https://mamatha-portfolio.netlify.app/)
-
 
 
 ## Skills
@@ -22,7 +19,7 @@
 
 
 
-<!--🏡 [website][website] **|** 
+🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|** 
 🐦 [facebook][facebook] **|** 
 📷 [instagram][instagram] 
@@ -30,9 +27,15 @@
 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
 [facebook]: https://www.facebook.com/mamatha.mereddy
 [instagram]: https://www.instagram.com/mamatha.mereddy
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
+
+
+
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Mamatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mereddy-mamatha/)](https://www.linkedin.com/in/mereddy-mamatha/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Mamatha-yellow)](https://mamatha-portfolio.netlify.app/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Mamatha-yellow)](https://stackoverflow.com/name)
 -->
 
 
