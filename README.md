@@ -1,6 +1,16 @@
 
 <img width="967" alt="profile-pic-mamatha" src="https://github.com/mamathamereddy/mamathamereddy/blob/main/Banner.jpg">
 
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin] **|** 
+🐦 [facebook][facebook] **|** 
+📷 [instagram][instagram] 
+
+
+[website]: https://mamatha-portfolio.netlify.app/
+[linkedin]: https://www.linkedin.com/in/mereddy-mamatha
+[facebook]: https://www.facebook.com/mamatha.mereddy
+[instagram]: https://www.instagram.com/mamatha.mereddy
 
 
 ## Skills
@@ -19,16 +29,6 @@
 
 
 
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin] **|** 
-🐦 [facebook][facebook] **|** 
-📷 [instagram][instagram] 
-
-
-[website]: https://mamatha-portfolio.netlify.app/
-[linkedin]: https://www.linkedin.com/in/mereddy-mamatha
-[facebook]: https://www.facebook.com/mamatha.mereddy
-[instagram]: https://www.instagram.com/mamatha.mereddy
 
 
 
