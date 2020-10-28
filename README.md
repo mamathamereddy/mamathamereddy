@@ -2,7 +2,7 @@
 <img width="967" alt="profile-pic-mamatha" src="https://github.com/mamathamereddy/mamathamereddy/blob/main/Banner.jpg">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mamatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mereddy-mamatha/)](https://www.linkedin.com/in/mereddy-mamatha/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Mamatha-green)](https://mamatha-portfolio.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Mamatha-yellow)](https://mamatha-portfolio.netlify.app/)
 
 
 
