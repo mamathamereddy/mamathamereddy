@@ -21,8 +21,8 @@
 * ⌨️ MySQL/MONGO DB
 
 
-- 🔭 worked as Frontend-developer (intern) @ [ating aps](https://www.ating.app//)
-- 🌱 I’m currently learning **TypeScript**, **React-redux**, 
+- 🔭 worked as ReactNative developer (intern) @ [JoyN](https://www.linkedin.com/company/thejoynapp/?originalSubdomain=dk)
+<!--- 🌱 I’m currently learning **TypeScript**, **React-redux**, -->
 
 
 
