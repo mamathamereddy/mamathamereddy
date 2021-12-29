@@ -21,7 +21,7 @@
 * ⌨️ MySQL/MONGO DB
 
 
-- 🔭 currently working as ReactNative developer (intern) @ [JoyN](https://www.linkedin.com/company/thejoynapp/?originalSubdomain=dk)
+- 🔭 currently working as ReactNative developer @ [FuelVision](https://www.fuelvision.io/index.html)
 <!--- 🌱 I’m currently learning **TypeScript**, **React-redux**, -->
 
 
