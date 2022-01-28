@@ -9,8 +9,6 @@
 
 [website]: https://mamatha-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
-[facebook]: https://www.facebook.com/mamatha.mereddy
-[instagram]: https://www.instagram.com/mamatha.mereddy
 
 
 ## Skills
