@@ -3,8 +3,7 @@
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|** 
-🐦 [facebook][facebook] **|** 
-📷 [instagram][instagram] 
+
 
 
 [website]: https://mamatha-portfolio.netlify.app/
