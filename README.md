@@ -10,6 +10,7 @@
 - ⚡ Fun fact: ...
 
 🏡  [Portfolio](https://mamatha-portfolio.netlify.app/)
+<br/>
 👔  [Linked In](https://www.linkedin.com/in/mereddy-mamatha)
 
 
