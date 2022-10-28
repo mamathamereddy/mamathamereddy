@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🏡 [website]: https://mamatha-portfolio.netlify.app/
-👔 [linkedin]: https://www.linkedin.com/in/mereddy-mamatha
+🏡  https://mamatha-portfolio.netlify.app/
+👔  https://www.linkedin.com/in/mereddy-mamatha
 
 **Languages and Tools:**  
 
