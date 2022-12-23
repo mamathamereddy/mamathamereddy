@@ -2,7 +2,7 @@
   
 - 🔭  worked as ReactNative developer @ [FuelVision](https://www.fuelvision.io/index.html)
 - 🌱 I’m currently learning Typescript and Python
-- 👯 I’m looking to collaborate on python project 
+- 👯 I’m looking to collaborate on any frontend applications..
 - 📫 How to reach me: mamatha.mereddy@gmail.com
 
 🏡  [Portfolio](https://mamatha-portfolio.netlify.app/)
