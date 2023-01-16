@@ -1,7 +1,8 @@
   ![design and Development](https://github.com/mamathamereddy/mamathamereddy/blob/main/Banner.jpg)
   
-- 🔭  working as ReactNative developer @ [FuelVision](https://www.fuelvision.io/index.html)
+- 🔭working as ReactNative developer @ [FuelVision](https://www.fuelvision.io/index.html)
 - 🌱 I’m currently learning Typescript and Python
+-  💬 Ask me about anything, HTml,Css,JS,React,ReactNative;
 - 👯 I’m looking to collaborate on any frontend applications..
 - 📫 How to reach me: mamatha.mereddy@gmail.com
 
